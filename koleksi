@@ -1,0 +1,16 @@
+<section class="koleksi-section">
+  <div class="search-tip">
+    🔍 Gunakan fitur pencarian browser
+    <kbd>Ctrl + F</kbd>
+    untuk mencari data karya ilmiah.
+  </div>
+
+  
+  <iframe
+    src="https://docs.google.com/spreadsheets/d/1jWSCuwefhMyVsdSeP4TapRSbS9PutGcUk3srXG1TJ74/edit?usp=sharing"
+    width="100%"
+    height="640"
+    frameborder="0"
+    style="border-radius: 10px; border: 1px solid rgba(0,0,0,0.1);">
+  </iframe>
+</section>
