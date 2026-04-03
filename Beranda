@@ -1,0 +1,37 @@
+<section class="hero">
+  <div class="hero-inner">
+    <span class="hero-badge">📚 Repositori Digital Resmi</span>
+    <h1>
+      Ruang Baca
+
+      <em>Fakultas Peternakan</em>
+
+      Universitas Papua
+    </h1>
+    <p class="hero-sub">
+      Platform resmi pengelolaan dan akses karya ilmiah
+      civitas akademika Fakultas Peternakan, Universitas Papua.
+    </p>
+    <p class="hero-tagline">
+      Mendukung riset berkualitas dengan pelayanan prima
+    </p>
+    <div class="hero-btns">
+      <a href="upload.html" class="btn-primary">📤 Upload Karya Ilmiah</a>
+      <a href="koleksi.html" class="btn-outline">🔍 Telusuri Koleksi</a>
+    </div>
+  </div>
+</section>
+
+<!-- Section Statistik -->
+<section class="stats-section">
+  <div class="stats-grid">
+    <div class="stat-card">
+      <span class="stat-num">1.000+</span>
+      <span class="stat-label">Karya Ilmiah</span>
+    </div>
+    <div class="stat-card">
+      <span class="stat-num">4</span>
+      <span class="stat-label">Program Studi</span>
+    </div>
+  </div>
+</section>
