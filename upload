@@ -1,0 +1,19 @@
+<section class="upload-section">
+  <div class="upload-notice">
+    ⏱ Karya ilmiah akan diverifikasi dalam
+    <strong>1–2 hari kerja</strong>
+    sebelum dipublikasikan ke repositori.
+  </div>
+
+  
+  <iframe
+    src="https://docs.google.com/forms/d/e/1FAIpQLScZuGPGIbjr2ITRc1NKhVBtDX674vPOLnq0LPMqfhD6xPm6ug/viewform?usp=header"
+    width="100%"
+    height="900"
+    frameborder="0"
+    marginheight="0"
+    marginwidth="0"
+    style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);">
+    Memuat…
+  </iframe>
+</section>
