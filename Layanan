@@ -1,0 +1,35 @@
+<section class="layanan-section">
+  <div class="section-header">
+    <span class="section-label">Layanan Kami</span>
+    <h2>Layanan Ruang Baca Fapet UNIPA</h2>
+  </div>
+  <div class="cards-grid">
+    <div class="svc-card">
+      <div class="card-icon">📥</div>
+      <h3>Deposit Karya Ilmiah</h3>
+      <p>Unggah skripsi, tesis, jurnal, dan laporan penelitian
+         ke repositori resmi fakultas.</p>
+      <a href="upload.html" class="card-link">Mulai deposit →</a>
+    </div>
+    <div class="cards-grid">
+    <div class="svc-card">
+      <div class="card-icon">🔍	</div>
+      <h3>Penelusuran Koleksi</h3>
+      <p>Cari koleksi berdasarkan judul, penulis, atau prodi</p>
+      <a href="koleksi.html" class="card-link">Mulai deposit →</a>
+    </div>
+    <div class="cards-grid">
+    <div class="svc-card">
+      <div class="card-icon">📋	</div>
+      <h3>Bebas Pustaka</h3>
+      <p>Permohonan surat keterangan bebas pustaka online</p>
+      <a href="koleksi.html" class="card-link">Mulai deposit →</a>
+    </div>
+    <div class="cards-grid">
+    <div class="svc-card">
+      <div class="card-icon">🌐	</div>
+      <h3>Layanan Open Access</h3>
+      <p>Akses terbuka ke karya ilmiah yang telah disetujui</p>
+      <a href="koleksi.html" class="card-link">Mulai deposit →</a>
+  </div>
+</section>
